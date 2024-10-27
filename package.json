@@ -8,7 +8,7 @@
     "packages/*"
   ],
   "scripts": {
-    "build": "yarn workspacs run build",
+    "build": "yarn workspaces run build",
     "dev": "yarn workspace quizapp run dev",
     "start": "yarn workspace quizapp run start",
     "lint": "yarn workspaces lint"
